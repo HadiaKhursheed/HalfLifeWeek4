@@ -39,6 +39,8 @@ I decided the components for my keychain.
 Took measurements of each component Oled display, ESP32-C6 and battery.
 And modelled the 3D model that will be printed to place the components inside it.
 
+![Screenshot 2026-11-01 120505](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/4454be74e553b8987a389cafee9dc2eb003fed8d004b249402445352fd2a9e17.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/24967fcc-c644-4c33-84d9-944e3189197f/video.mp4)
 
 ### 2026-11-01: Github repo is all set now.
