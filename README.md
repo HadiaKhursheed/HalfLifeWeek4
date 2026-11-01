@@ -7,5 +7,5 @@ Through this key-chain we can display cool animations and play simple games on i
 # Key-chain case (3D printed)
 <img width="603" height="362" alt="Screenshot 2026-11-01 120505" src="https://github.com/user-attachments/assets/5c6ac66f-8c66-457c-ad1d-71d4febad473" />
 
-Outer dimensions of the case=> 51mm (length), 34mm (width), 26mm (height) /
+Outer dimensions of the case=> 51mm (length), 34mm (width), 26mm (height) \
 Inner dimensions of the case=> 45mm (length), 28mm (width), 23mm (height)
