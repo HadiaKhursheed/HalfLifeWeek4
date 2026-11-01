@@ -14,12 +14,16 @@
 
 ## Contents
 
-1. [2026-11-01: Work session](#2026-11-01-work-session)
+1. [2026-11-01: First I was searching for parts to make display using Led strips but while searching through the website I found an oled display module that has inbuilt 4 buttons with the display. So I got an idea to](#2026-11-01-first-i-was-searching-for-parts-to-make-display-u)
 
 ## Design
 
-### 2026-11-01: Work session
+### 2026-11-01: First I was searching for parts to make display using Led strips but while searching through the website I found an oled display module that has inbuilt 4 buttons with the display. So I got an idea to
 
 **0.47h**
+
+First I was searching for parts to make display using Led strips but while searching through the website I found an oled display module that has inbuilt 4 buttons with the display. So I got an idea to make my project.
+
+![IMG_0fd6129d-e6b7-4f2c-ba9d-03e26c7dc4fa](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/6999d81fd394cd759c21628a02cb7fef633ca87c29d36888c8dd49cd5a94e549.jpg)
 
 [Timelapse](https://lookout.hackclub.com/api/media/ea70c015-014d-4a7d-bf90-fe497a3dc5a8/video.mp4)
