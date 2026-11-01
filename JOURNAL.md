@@ -17,7 +17,7 @@
 1. [2026-11-01: First I was searching for parts to make display using Led strips but while searching through the website I found an oled display module that has inbuilt 4 buttons with the display. So I got an idea to](#2026-11-01-first-i-was-searching-for-parts-to-make-display-u)
 2. [2026-11-01: I decided the components for my keychain.](#2026-11-01-i-decided-the-components-for-my-keychain)
 3. [2026-11-01: Github repo is all set now.](#2026-11-01-github-repo-is-all-set-now)
-4. [2026-11-01: Work session](#2026-11-01-work-session)
+4. [2026-11-01: I wrote the project's code by referencing the OLED's pins & datasheet through Wokwi simulator.](#2026-11-01-i-wrote-the-projects-code-by-referencing-the-oled)
 
 ## Design
 
@@ -50,8 +50,14 @@ Made folders to place 3d design files & firmware. Also wrote some readme info.
 
 [Timelapse](https://lookout.hackclub.com/api/media/559b8fb1-33da-4a10-99d5-58617b5cab26/video.mp4)
 
-### 2026-11-01: Work session
+### 2026-11-01: I wrote the project's code by referencing the OLED's pins & datasheet through Wokwi simulator.
 
 **0.52h**
+
+I wrote the project's code by referencing the OLED's pins & datasheet through Wokwi simulator.
+Intially on Wokwi I chose to test using ESP32-C6 but its pins and model was different from what I will be using so it didn't turn on.
+Then I used ESP32 and uploaded the code and it worked perfectly.
+
+![Screenshot 2026-11-02 023218](https://halflife.hackclub-assets.com/sessions/ep1qMwQHWINzTUPCyrZHu5URMCP5PTJD/37e0a9ca607567e1198e64787701d1d3dcfd8a5aad9ea56f5dae9977cc9909b0.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/73c1074b-32b2-4a92-a735-5cc748962148/video.mp4)
