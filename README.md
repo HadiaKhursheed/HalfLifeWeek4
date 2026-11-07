@@ -16,6 +16,10 @@ Inner dimensions of the case=> 4.5cm (length), 2.8cm (width), 2.3cm (height)
 # Components used in the key-chain
 1. OLED Display with buttons=> to play games & onboard buttons remove the hassle of designing a PCB.
 2. ESP32-C6 dev board=> it controls the functioning of the OLED display & can connect battery as it contains charging circuit.
-3. B
+3. Battery (rechargable)=> to make keychain a low-power device.
+4. Switch=> connected at battery Vcc so to keep keychain powered off when not in use.
+
+# Features of the keychain
+1. 
 
 
